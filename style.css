@@ -51,7 +51,7 @@ a:active {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	margin-left: -15;
-	font-family: corbel;
+	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
 }
 
 footer {
